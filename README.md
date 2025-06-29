@@ -30,7 +30,7 @@
 
 2.Установка приложения
 
- - Скачать установочный пакет по [ссылке](https://disk.yandex.ru/d/3K0cEp-xoCi8dg)
+ - Скачать установочный пакет по [ссылке]([https://disk.yandex.ru/d/3K0cEp-xoCi8dg](https://disk.yandex.ru/d/n_q13JsN2ERDEw))
 
 
 3.Первоначальная настройка
